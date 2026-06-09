@@ -1,0 +1,14 @@
+{
+  "name": "yapay-zeka-flascard-backend",
+  "version": "1.0.0",
+  "description": "Flashcard AI Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "cors": "latest",
+    "express": "latest"
+  }
+}
